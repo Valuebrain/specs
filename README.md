@@ -1,1 +1,1 @@
-# specs.website
+# specs
