@@ -397,8 +397,18 @@ Stakeholders are:
 
 ## 8a. Related Work
 
-- Similar outsourcing service websites and platforms: https://techspeed.com
-- Industry best practices and case studies: TBD
+### 8a.1 Similar outsourcing services
+
+- https://techspeed.com
+
+### 8a.2 Cutting-edge design examples
+
+- https://doze.studio/
+- https://www.setaprint.ch/en/
+
+### 8a.3 Industry best practices and case studies
+
+- TBD
 
 ## 8b. References
 
