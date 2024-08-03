@@ -4,10 +4,10 @@
 
 The value-based strategy consists of four key factors:
 
-1. **Willingness to Pay (WTP):** The price a customer is willing to pay for the product or service.
-2. **Price:** The actual amount required to cover costs and make a profit.
-3. **Cost:** The expenses incurred by the company to produce the goods or services.
-4. **Willingness to Sell (WTS):** The price suppliers are willing to accept for their contribution.
+- **Willingness to Pay (WTP):** The price a customer is willing to pay for the product or service.
+- **Price:** The actual amount required to cover costs and make a profit.
+- **Cost:** The expenses incurred by the company to produce the goods or services.
+- **Willingness to Sell (WTS):** The price suppliers are willing to accept for their contribution.
 
 The core questions are:
 - How can we best create value for customers?
