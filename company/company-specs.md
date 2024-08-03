@@ -111,11 +111,13 @@ Our commitment to quality is reflected in the exceptional talent we collaborate 
 
 **Example**: Our Virtualization services, such as Hypervisor Management and Virtual Desktop Infrastructure (VDI) solutions, benefit immensely from the expertise and dedication of our team. The result are high-performance and long-lasting solutions, reducing the need for frequent changes and minimizing downtime.
 
-### Providing Exceptional Customer Service and a Seamless Ordering Experience
+### Exceptional Customer Service and Seamless Experiences
 
-We are dedicated to delivering outstanding customer service. Our support teams are available to assist with any issues, ensuring a smooth and hassle-free experience for each of the TBM services, whether ordered individually or as a package. We prioritize clear communication, quick response times, and personalized assistance.
+Our Customer Experience (in fact our business) is built on the same modular reference architecture that our customers benefit from, connecting the smallest components, such as a network interface card of a virtual machine, with business applications and ultimately with the business processes they support. We meticulously mapped the entire service architecture and put it into operation, enabling us to track and respond to issues before they surface. This proactive approach ensures that our services are always running smoothly, providing a seamless experience for our customers.
 
-**Example**: Our IT Support and Help Desk services offer 24/7 support with remote and on-site assistance. This ensures that any issues are promptly resolved, providing SMEs with a seamless and hassle-free experience. Additionally, our Service Desk/Help Desk within the Workplace service type ensures continuous support for end-users.
+**Example**: After a manual change, there is an incorrect setting of the network interface card causing a virtual machine (VM) to lose network connectivity. This would prevent any data refresh, disrupting business operations. Our system immediately detects this issue, routes all traffic to the secondary node, and spins up a failover node to cover for the primary node. This ensures continuous network connectivity and data flow, minimizing downtime and maintaining business continuity.
+
+Our IT Support and Help Desk services offer 24/7 support with remote and on-site assistance. This ensures that any issues are promptly resolved, providing SMEs with a seamless and hassle-free experience. Additionally, our Service Desk/Help Desk within the Workplace service type ensures continuous support for end-users.
 
 ### Leveraging Network Effects to Build a Community of Resellers
    - We create a community of resellers who can share experiences, solutions, and best practices. This network effect enhances the overall value of our services by fostering collaboration and knowledge sharing among our customers and partners.
