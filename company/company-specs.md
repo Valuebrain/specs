@@ -1,5 +1,7 @@
 # Our Value-Based Strategy
 
+![specs-company-Value-Based-Strategy](../media/specs-company-Value-Based-Strategy.png)
+
 Our Value-Based Strategy is designed to empower SMEs and create a thriving ecosystem for all stakeholders. Here's how we achieve this:
 
 1. **Empowering SMEs with Clear Purpose**: We bridge skill gaps in non-core functions, allowing SMEs to focus on core competencies. Our commitment to ethical innovation and commercial excellence drives sustainable success.
