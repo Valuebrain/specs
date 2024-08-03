@@ -35,6 +35,8 @@ Our mission is to be the premier full-service partner for SMEs, driven by a comm
 
 ### Mission Statement
 
+“Empowering core competencies by bridging skill gaps in non-core functions.”
+
 “Empowering SMEs to focus on core competencies by bridging skill gaps in non-core functions.”
 
 ## 2. Clear Market Opportunity
