@@ -2,14 +2,14 @@
 
 ![specs-company-Value-Stick.png](../media/specs-company-Value-Stick.png)
 
-The value stick consists of four key factors:
+The value-based strategy consists of four key factors:
 
-1. **Willingness to Pay (WTP):** The highest price a customer is willing to pay for your product or service.
-2. **Price:** The actual amount customers pay for your goods or services.
+1. **Willingness to Pay (WTP):** The price a customer is willing to pay for the product or service.
+2. **Price:** The actual amount required to cover costs and make a profit.
 3. **Cost:** The expenses incurred by the company to produce the goods or services.
-4. **Willingness to Sell (WTS):** The minimum amount suppliers are willing to accept for the materials needed to produce your goods or services.
+4. **Willingness to Sell (WTS):** The price suppliers are willing to accept for their contribution.
 
-By adjusting each factor on the value stick, you can see how it impacts the others and find the optimal way to create value. For example, lowering the price can boost customer satisfaction and increase demand. The core questions are:
+The core questions are:
 - How can we best create value for customers?
 - How can we create value by collaborating with suppliers?
 - How can we create value for employees and shareholders?
