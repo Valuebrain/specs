@@ -25,13 +25,18 @@ By adjusting each factor on the value stick, you can see how it impacts the othe
 - How can my business create value for employees?
 - How can my business create value by collaborating with suppliers?
 
-# Our Value-Based Business Strategy
+# Our Value-Based Strategy
 
 ## 1. Clear Purpose
 
-Start your business strategy by defining your organization’s purpose. Research in the Harvard Business Review shows that consumers are increasingly motivated to buy from sustainable brands, with sales of such products growing over five times faster than their non-sustainable counterparts.
+### Purpose
 
-By beginning with a clear purpose, your organization can lay the groundwork for long-term value creation.
+Our mission is to be the premier full-service partner for SMEs, driven by a commitment to ethical innovation and commercial excellence. We empower our customers by bridging skill gaps in non-core functions, allowing a complete focus on core competencies and cost efficiencies by taking over tasks that don’t add value. By creating value for our customers through enhanced efficiency and growth, fostering fair and innovative relationships with suppliers, and investing in our employees’ professional development, we ensure sustainable success for our customers, suppliers, their communities, and our company.
+
+### Mission Statement
+
+“Empowering SMEs to focus on core competencies by bridging skill gaps in non-core functions.”
+
 
 ## 2. Clear Market Opportunity
 
