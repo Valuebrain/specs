@@ -8,7 +8,7 @@ Our Value-Based Strategy is designed to empower SMEs and create a thriving ecosy
 
 3. **Delivering Clear Value to Customers**: Our modular and comprehensive services ensure flexibility and seamless integration. We optimize operations to offer high-quality services at competitive prices, enhancing efficiency and growth.
 
-4. **Building Strong Partnerships**: We foster collaboration and co-creation with our partners, investing in their growth and ensuring mutual success through ethical and innovative practices.
+4. **Building Value through Partnerships**: We foster collaboration and co-creation with our partners, investing in their growth and ensuring mutual success through ethical and innovative practices.
 
 5. **Creating Value for Our Firm**: We nurture our employees' growth, cultivate an inclusive culture, and drive sustainable returns for our shareholders, ensuring long-term success for everyone involved.
 
