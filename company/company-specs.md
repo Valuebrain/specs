@@ -151,8 +151,6 @@ By bridging skill gaps and providing opportunities for growth, we help elevate t
 
 ## 5. Clear Value for Us
 
-### Creating Value for Our Firm: Employees and Shareholders
-
 By fostering excellence, innovation, and growth, we ensure a thriving ecosystem for all.
 
 ### Empowering Employees
