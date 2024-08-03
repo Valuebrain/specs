@@ -109,7 +109,7 @@ By optimizing our global operations and leveraging economies of scale, we strive
 
 Our commitment to quality is reflected in the exceptional talent we collaborate with. We partner with bright, well-educated, and highly experienced professionals who are not only experts in their fields but also passionate about innovation and collaboration. These dedicated individuals bring their best to every project, ensuring that our services are both reliable and sustainable, and stand the test of time.
 
-```**Example**: Our Virtualization services, such as Hypervisor Management and Virtual Desktop Infrastructure (VDI) solutions, benefit immensely from the expertise and dedication of our team. The result are high-performance and long-lasting solutions, reducing the need for frequent changes and minimizing downtime.```
+**Example**: Our Virtualization services, such as Hypervisor Management and Virtual Desktop Infrastructure (VDI) solutions, benefit immensely from the expertise and dedication of our team. The result are high-performance and long-lasting solutions, reducing the need for frequent changes and minimizing downtime.
 
 ### Exceptional Customer Service and Seamless Experiences
 
