@@ -10,7 +10,7 @@ Value-based strategy is a dynamic method where price-setting and resouce allocat
 To visualize and optimize this strategy, the value stick framework is invaluable. It helps you see how different factors interact and guides you in choosing initiatives that maximize value for everyone involved.
 
 
-
+![specs-company-Value-Stick.png](../media/specs-company-Value-Stick.png)
 
 **The Value Stick Framework**
 
