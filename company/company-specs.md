@@ -123,7 +123,7 @@ We actively encourage collaboration and co-creation with multiple trusted partne
 
 **Example**: A local IT consultant working with a small business recognizes the need for a sophisticated cybersecurity solution but lacks the resources and expertise to implement such a system. By partnering with us, the consultant can leverage our advanced cybersecurity solutions and expertise. Based on our reference architectures, we design and deploy a robust cybersecurity framework for the small business, ensuring their data is secure and their operations are protected. The consultant strengthens their relationship with the client and earns a commission, while we extend our service delivery through this collaborative effort.
 
-### Integrating Environmental or Social Causes into Our Branding**:
+### Together Working for the Common Good
 
 Our win-win approach to value-sourcing bridges skill gaps resulting in loss of competitiveness on one side with well-motivated expertise resulting in raising wages on the other side. In both cases, local communities benefit by fostering economic growth on both sides of the globe. This collaboration ensures that both our customers and our experts benefit, ultimately leading to thriving communities in both places.
 
