@@ -101,9 +101,9 @@ We offer a full range of Workplace, Delivery, Platform, and Infrastructure servi
 
 ### Lowering the Product’s Price
 
-By optimizing our operations and leveraging economies of scale, we strive to offer competitive pricing for our services. This approach makes high-quality outsourcing solutions accessible to SMEs, enabling them to achieve cost efficiencies without compromising on quality.
+By optimizing our global operations and leveraging economies of scale, we strive to offer competitive pricing for our services. This approach makes high-quality outsourcing solutions accessible to SMEs, enabling them to achieve cost efficiencies of large corporations without compromising on quality.
 
-**Example**: By optimizing our Cloud Infrastructure Services, we can offer affordable, scalable cloud solutions that reduce the need for expensive on-premises hardware and maintenance costs. This allows SMEs to leverage high-quality cloud services at a fraction of the cost.
+**Example**: Our experts are proficient at deplyoing, running and monitoring resources on major cloud platforms at any location as well as on-premise data centers. Each customer has their own dedicated resources and dedicated experts working solely for them and no one else. By optimizing our infrastructure services, we can offer affordable, scalable solutions that reduce the need for upfront hardware and maintenance costs. This allows SMEs to leverage high-quality infrastructure services at a fraction of the cost.
 
 ### Enhancing Product Quality and Longevity
 
