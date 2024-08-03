@@ -37,7 +37,6 @@ Our mission is to be the premier full-service partner for SMEs, driven by a comm
 
 “Empowering SMEs to focus on core competencies by bridging skill gaps in non-core functions.”
 
-
 ## 2. Clear Market Opportunity
 
 Next, dive into understanding your market’s competitive landscape. Identify which companies dominate the market, how your competitors’ products differ from yours, and any unmet needs that your organization could address.
@@ -99,6 +98,32 @@ Ways to create customer value include:
 - Providing exceptional customer service and a seamless shopping experience
 - Leveraging network effects to build a community of users
 - Integrating environmental or social causes into your branding
+
+
+With a clear purpose and market understanding, our strategy is to provide unique and greater value to our customers, known as “customer delight” on the value stick (see above). Customer delight can be achieved by raising the willingness to pay or by lowering the price. While lowering prices may not always be feasible, we constantly enhance our services to increase their real value.
+
+**Ways We Create Customer Value:**
+
+1. **Enhancing Product Quality and Longevity**:
+
+We ensure that our outsourcing services are of the highest quality, offering reliable and sustainable solutions that stand the test of time. This includes continuous improvement and innovation to meet evolving customer needs.
+
+2. **Providing Exceptional Customer Service and a Seamless Shopping Experience**:
+
+We are dedicated to delivering outstanding customer service. Our support teams are available to assist with any issues, ensuring a smooth and hassle-free experience. We prioritize clear communication, quick response times, and personalized assistance.
+
+3. **Offering a One-Stop-Shop Solution**:
+
+By providing a comprehensive range of services under one roof, we simplify the outsourcing process for SMEs. This reduces the complexity and cost associated with managing multiple providers and ensures seamless integration with our customers' operations.
+
+4. **Leveraging Network Effects**:
+   - We create a community of users who can share experiences, solutions, and best practices. This network effect enhances the overall value of our services by fostering collaboration and knowledge sharing among our customers.
+
+5. **Integrating Environmental or Social Causes into Our Branding**:
+   - We integrate ethical practices and sustainability into our business model. By aligning with environmental and social causes, we resonate with customers who value corporate responsibility and are willing to support businesses that make a positive impact.
+
+By focusing on these areas, we aim to enhance customer delight, increase their willingness to pay, and provide exceptional value that sets us apart from the competition. This commitment to quality, service, and sustainability ensures that our customers see the true value in partnering with us for their outsourcing needs.
+
 
 ## 4. Clear Value for Suppliers
 
