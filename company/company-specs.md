@@ -91,40 +91,45 @@ By leveraging these strategic actions, we can capture a significant share of the
 
 ## 3. Clear Value for Customers
 
-With a clear purpose and market understanding, strategize how to provide unique or greater value to your customers. On the value stick, customer value is known as “customer delight,” which can be increased by raising willingness to pay or lowering the price. If lowering the price isn’t feasible, consider ways to enhance the product’s value, thereby increasing customer willingness to pay.
+With a clear purpose and market understanding, our strategy is to provide unique and greater value to our SME customers, enhancing "customer delight" by increasing their willingness to pay or, where possible, lowering the price. If lowering the price isn’t feasible, we focus on enhancing our services to increase their perceived value.
 
-Ways to create customer value include:
+### Modular and Comprehensive Service Offerings
 
-- Lowering the product’s price
-- Enhancing product quality and longevity
-- Providing exceptional customer service and a seamless shopping experience
-- Leveraging network effects to build a community of users
-- Integrating environmental or social causes into your branding
+We offer a full range of Workplace, Delivery, Platform, and Infrastructure services that SMEs can order individually in a modular fashion or as complete packages. This flexibility allows customers to select and integrate the specific services they need, ensuring all communications and data flows between modules work seamlessly.
 
+**Example**: A customer can order Mobile Device Management to enhance seamless integration with existing Computer services and also choose specific Communication and Software packages to complement existing solutions. Alternatively, the customer can select a complete Workplace package that includes all Client Computing services, Communication & Collaboration software, and Connectivity, addressing multiple needs with a single, integrated solution.
 
-With a clear purpose and market understanding, our strategy is to provide unique and greater value to our customers, known as “customer delight” on the value stick (see above). Customer delight can be achieved by raising the willingness to pay or by lowering the price. While lowering prices may not always be feasible, we constantly enhance our services to increase their real value.
+### Lowering the Product’s Price
 
-**Ways We Create Customer Value:**
+By optimizing our operations and leveraging economies of scale, we strive to offer competitive pricing for our services. This approach makes high-quality outsourcing solutions accessible to SMEs, enabling them to achieve cost efficiencies without compromising on quality.
 
-1. **Enhancing Product Quality and Longevity**:
+**Example**: By optimizing our Cloud Infrastructure Services, we can offer affordable, scalable cloud solutions that reduce the need for expensive on-premises hardware and maintenance costs. This allows SMEs to leverage high-quality cloud services at a fraction of the cost.
 
-We ensure that our outsourcing services are of the highest quality, offering reliable and sustainable solutions that stand the test of time. This includes continuous improvement and innovation to meet evolving customer needs.
+### Enhancing Product Quality and Longevity
 
-2. **Providing Exceptional Customer Service and a Seamless Shopping Experience**:
+We ensure that our services are of the highest quality, offering reliable and sustainable solutions that stand the test of time. Continuous improvement and innovation are integral to our offerings, meeting the evolving needs of our customers.
 
-We are dedicated to delivering outstanding customer service. Our support teams are available to assist with any issues, ensuring a smooth and hassle-free experience. We prioritize clear communication, quick response times, and personalized assistance.
+**Example**: Our Virtualization Infrastructure services, such as Hypervisor Management and Virtual Desktop Infrastructure (VDI) solutions, ensure high performance and longevity, reducing the need for frequent hardware upgrades and minimizing downtime.
 
-3. **Offering a One-Stop-Shop Solution**:
+### Providing Exceptional Customer Service and a Seamless Ordering Experience
 
-By providing a comprehensive range of services under one roof, we simplify the outsourcing process for SMEs. This reduces the complexity and cost associated with managing multiple providers and ensures seamless integration with our customers' operations.
+We are dedicated to delivering outstanding customer service. Our support teams are available to assist with any issues, ensuring a smooth and hassle-free experience for each of the TBM services, whether ordered individually or as a package. We prioritize clear communication, quick response times, and personalized assistance.
 
-4. **Leveraging Network Effects**:
-   - We create a community of users who can share experiences, solutions, and best practices. This network effect enhances the overall value of our services by fostering collaboration and knowledge sharing among our customers.
+**Example**: Our IT Support and Help Desk services offer 24/7 support with remote and on-site assistance. This ensures that any issues are promptly resolved, providing SMEs with a seamless and hassle-free experience. Additionally, our Service Desk/Help Desk within the Workplace service type ensures continuous support for end-users.
 
-5. **Integrating Environmental or Social Causes into Our Branding**:
-   - We integrate ethical practices and sustainability into our business model. By aligning with environmental and social causes, we resonate with customers who value corporate responsibility and are willing to support businesses that make a positive impact.
+### Leveraging Network Effects to Build a Community of Resellers
+   - We create a community of resellers who can share experiences, solutions, and best practices. This network effect enhances the overall value of our services by fostering collaboration and knowledge sharing among our customers and partners.
+   - **Example**: By creating a community platform for our Unified Communications services, such as VoIP and video conferencing solutions, we enable resellers to share best practices and collaborate on innovative solutions, enhancing the overall value and adoption of these services.
 
-By focusing on these areas, we aim to enhance customer delight, increase their willingness to pay, and provide exceptional value that sets us apart from the competition. This commitment to quality, service, and sustainability ensures that our customers see the true value in partnering with us for their outsourcing needs.
+### Integrating Environmental or Social Causes into Our Branding**:
+
+We integrate ethical practices and sustainability into our business model. By aligning with environmental and social causes, we resonate with customers who value corporate responsibility and are willing to support businesses that make a positive impact.
+
+**Example**: Our Data Center Services are designed with sustainability in mind, utilizing energy-efficient cooling and power solutions. By promoting our commitment to environmental sustainability, we attract SMEs that prioritize green practices and social responsibility.
+
+**Conclusion**:
+By focusing on these areas, we aim to enhance customer delight, increase their willingness to pay, and provide exceptional value that sets us apart from the competition. Our commitment to quality, service, flexibility, and sustainability ensures that our customers see the true value in partnering with us for their Workplace, Delivery, Platform, and Infrastructure service needs.
+
 
 
 ## 4. Clear Value for Suppliers
