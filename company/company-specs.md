@@ -163,9 +163,7 @@ Our commitment to sustainability and ethical practices boosts our reputation and
 
 ## Wrapping Up
 
-By creating value for employees, customers, and partners, we inherently enhance value for shareholders. Our integrated approach ensures sustainable success, robust returns, and a trusted reputation, making our business a thriving and dynamic environment for all.
-
-Our Value-Based Strategy is designed to ignite commitment, drive innovation, and create a thriving ecosystem where every stakeholder flourishes. Here's how we make it happen:
+By creating value for employees, customers, and partners, we inherently enhance value for shareholders. Our integrated approach ensures sustainable success, robust returns, and a trusted reputation, making our business a thriving and dynamic environment for all. Our Value-Based Strategy is designed to ignite commitment, drive innovation, and create a thriving ecosystem where every stakeholder flourishes. Here's how we make it happen:
 
 1. **Empowering SMEs with Clear Purpose**:
    Our mission is simple yet strong: to empower SMEs by bridging skill gaps in non-core functions, allowing customers to focus entirely on their core competencies. We are driven by a commitment to ethical innovation and commercial excellence, ensuring sustainable success for our customers, their communities, and our company. Imagine your business free from the burden of non-core tasks, fully focused on what you do best, and achieving new heights of efficiency and growth.
