@@ -82,19 +82,19 @@ By leveraging these strategic actions, we can capture a significant share of the
 
 With a clear purpose and market understanding, our strategy is to provide unique and greater value to our SME customers, enhancing "customer delight" by increasing their willingness to pay or, where possible, lowering the price. If lowering the price isn’t feasible, we focus on enhancing our services to increase their perceived value.
 
-### Modular and Comprehensive Service Offerings
+### Modular Service Offerings
 
 We offer a full range of Workplace, Delivery, Platform, and Infrastructure services that SMEs can order individually in a modular fashion or as complete packages. This flexibility allows customers to select and integrate the specific services they need, ensuring all communications and data flows between modules work seamlessly.
 
 **Example**: A customer can order Mobile Device Management to enhance seamless integration with existing Computer services and also choose specific Communication and Software packages to complement existing solutions. Alternatively, the customer can select a complete Workplace package that includes all Client Computing services, Communication & Collaboration software, and Connectivity, addressing multiple needs with a single, integrated solution.
 
-### Lowering the Product’s Price
+### Lowering the Price Point
 
 By optimizing our global operations and leveraging economies of scale, we strive to offer competitive pricing for our services. This approach makes high-quality outsourcing solutions accessible to SMEs, enabling them to achieve cost efficiencies of large corporations without compromising on quality.
 
 **Example**: Our experts are proficient at deplyoing, running and monitoring resources on major cloud platforms at any location as well as on-premise. Each customer has their own dedicated resources and dedicated experts working solely for them and no one else. By optimizing our infrastructure services, we can offer affordable, scalable solutions that reduce the need for upfront hardware and maintenance costs. This allows SMEs to leverage high-quality infrastructure services at a fraction of the cost.
 
-### Enhancing Product Quality and Longevity
+### Enhancing Product Quality
 
 Our commitment to quality is reflected in the exceptional talent we collaborate with. We partner with bright, well-educated, and highly experienced professionals who are not only experts in their fields but also passionate about innovation and collaboration. These dedicated individuals bring their best to every project, ensuring that our services are both reliable and sustainable, and stand the test of time.
 
